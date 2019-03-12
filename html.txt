@@ -1,0 +1,71 @@
+<html>
+<head>
+<style>
+.as{background-color:pink;
+    position:absolute;
+	border:dotted black;}
+	span{border:dotted red;
+	position:relative;
+	margin:3px;
+	cellpadding:130%;
+	text-indent:25px;
+	}
+	body{border:3px solid red;}
+	#ad{border:2px solid pink;}
+</style>
+<title>my home webpage</title>
+</head>
+<body>
+<list>
+<ol>
+<li>redfs</li>
+<li>redfsa</li>
+</ol>
+</list>
+<img src="C:\Users\next gen\Downloads\photo-1503066211613-c17ebc9daef0" height="2000" width="4000">
+<form>
+username:<input type="text" value="username"/>
+password:<input type="text" value="password"/>
+</form>
+<p class="as">the first link</p>
+<p>i am akarsh<span>study in lpu</span>it is good</p>
+<h1 id="ad">the second link</h1>
+</body>
+</html>
+<p><a href="file:///C:/Users/next%20gen/Music/ak.html">go to second page</a></p>
+<p><a href="file:///C:/Users/next%20gen/Music/assa.html">go to third page</a></p>
+
+
+
+
+<html>
+<head><title>my first webpage</title>
+<style>
+
+</style>
+</head>
+<body bgcolor="brown">
+<p>the html works well</p>
+<p>browsers usually display</p>
+<img src="C:\Users\next gen\Downloads\Flower_poster_2.jpg" height="200" width="400" align="right">
+<p><cite>HEALTH DIET</cite>by<abbr title="WORLD HEALTH ORGANISATION">WHO</abbr></p> 
+</body>
+</html>
+<p><a href="file:///C:/Users/next%20gen/Music/efwasd.html">home</a></p>
+
+
+
+<html>
+<head><title>my first webpage</title>
+<style>
+
+</style>
+</head>
+<body bgcolor="brown">
+<p>the html works well</p>
+<p>browsers usually display</p>
+<img src="C:\Users\next gen\Downloads\Flower_poster_2.jpg" height="200" width="400" align="right">
+<p><cite>HEALTH DIET</cite>by<abbr title="WORLD HEALTH ORGANISATION">WHO</abbr></p> 
+</body>
+</html>
+<p><a href="file:///C:/Users/next%20gen/Music/efwasd.html">home</a></p>
